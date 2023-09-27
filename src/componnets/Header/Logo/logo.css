@@ -1,0 +1,11 @@
+.letter-spacing{
+    letter-spacing: 4px;
+}
+
+.backgroundImg{
+    background-image: url('/src/assets/katt-yukawa-K0E6E0a0R3A-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-y: center;
+}

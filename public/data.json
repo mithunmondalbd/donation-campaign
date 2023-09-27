@@ -1,0 +1,136 @@
+
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/J29D722/tasty-meal-containers-arrangement.jpg",
+        "title": "Healthy Meal Plan",
+        "category": "Health",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#ecf0f1",
+        "text_button_bg_color": "#2ecc71",
+        "description": "Support a program that provides nutritious meals to individuals recovering from illness or surgery. Your contribution will help improve their health and well-being.",
+        "price": 25.99
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/x2tm3zd/church-of-the-king-j9j-ZSqf-H5-YI-unsplash.jpg",
+        "title": "Education for All",
+        "category": "Education",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#9b59b6",
+        "description": "Help underprivileged children get access to quality education, textbooks, and a brighter future. Your support will empower them to break the cycle of poverty through education.",
+        "price": 19.99
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/HDYdKdy/pai-pai-oc-U5z-Q178-Zs-unsplash.jpg",
+        "title": "Warm Winter Clothing Drive",
+        "category": "Clothing",
+        "category_bg_color": "#27ae60",
+        "card_bg_color": "#d35400",
+        "text_button_bg_color": "#8e44ad",
+        "description": "Donate warm clothing and blankets to those in need during the cold winter months. Your generosity will provide warmth and comfort to vulnerable individuals and families.",
+        "price": 34.99
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/DDVS340/close-up-hands-holding-cup-with-food.jpg",
+        "title": "Food for the Hungry",
+        "category": "Food",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#ecf0f1",
+        "text_button_bg_color": "#2ecc71",
+        "description": "Support a food bank that provides groceries and meals to families facing hunger. Your contribution will make a significant impact on alleviating food insecurity.",
+        "price": 15.99
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/qMtZxbY/boy-doing-occupational-therapy-session-with-psychologist.jpg",
+        "title": "Mental Health Awareness",
+        "category": "Health",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#9b59b6",
+        "description": "Promote mental health awareness and support programs that help individuals struggling with mental health issues. Your involvement will reduce stigma and improve access to care.",
+        "price": 29.99
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/WspFT38/college-students-cramming-outdoor.jpg",
+        "title": "Scholarships for Underprivileged Students",
+        "category": "Education",
+        "category_bg_color": "#27ae60",
+        "card_bg_color": "#d35400",
+        "text_button_bg_color": "#8e44ad",
+        "description": "Contribute to scholarships that make higher education accessible to students from low-income backgrounds. Your support will empower the next generation of leaders.",
+        "price": 22.99
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/v3nLPFb/medium-shot-smiley-friends-outdoors.jpg",
+        "title": "Winter Coat Drive",
+        "category": "Clothing",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#ecf0f1",
+        "text_button_bg_color": "#2ecc71",
+        "description": "Collect and distribute warm winter coats to individuals and families in need. Your donation will provide protection from the cold and make winter more bearable.",
+        "price": 42.99
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/QXhSzgt/volunteers-with-gloves-handing-boxes-with-provisions-donation.jpg",
+        "title": "Emergency Food Relief",
+        "category": "Food",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#9b59b6",
+        "description": "Provide emergency food assistance to communities affected by disasters and crises. Your contribution will help communities rebuild and recover.",
+        "price": 18.99
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/NZPqJBP/medical-stuff-presenting-booklet-with-arrhythmias-handicapped-senior-woman-sitting-wheelchair.jpg",
+        "title": "Healthcare Access for Vulnerable Populations",
+        "category": "Health",
+        "category_bg_color": "#27ae60",
+        "card_bg_color": "#d35400",
+        "text_button_bg_color": "#8e44ad",
+        "description": "Support healthcare initiatives that ensure access to quality medical care for vulnerable populations. Your support will save lives and improve health outcomes.",
+        "price": 28.99
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/ZXGsmfH/basket-with-back-school-essentials.jpg",
+        "title": "Educational Supplies for Schools",
+        "category": "Education",
+        "category_bg_color": "#3498db",
+        "card_bg_color": "#ecf0f1",
+        "text_button_bg_color": "#2ecc71",
+        "description": "Donate educational supplies such as books, notebooks, and stationery to schools in need. Your contribution will equip students with the tools they need to succeed.",
+        "price": 20.99
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/QFQZRCF/nick-fewings-4-OFU9yx-Uv-Lc-unsplash-1.jpg",
+        "title": "Clothing and Shelter for Homeless",
+        "category": "Clothing",
+        "category_bg_color": "#e74c3c",
+        "card_bg_color": "#f1c40f",
+        "text_button_bg_color": "#9b59b6",
+        "description": "Provide warm clothing and shelter for homeless individuals during the cold winter months. Your donation will make a significant impact on improving their living conditions and well-being.",
+        "price": 38.99
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/5kM8mDx/krakenimages-Oro-Uw-Aw-Ls-8-unsplash.jpg",
+        "title": "Feeding Children in Need",
+        "category": "Food",
+        "category_bg_color": "#27ae60",
+        "card_bg_color": "#d35400",
+        "text_button_bg_color": "#8e44ad",
+        "description": "Support programs that provide nutritious meals to children facing hunger and malnutrition. Your contribution will ensure that these children have access to essential nutrition for healthy growth and development.",
+        "price": 17.99
+    }
+]
+
